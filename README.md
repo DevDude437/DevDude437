@@ -1,11 +1,3 @@
 ## Hi there 👋 I'm DevDude437!
 
-I know some Python and HTML. My home is in the Command Line. a GUI is way too easy! I like Linux and GrapheneOS. Also FOSS stuff. I enjoy coding  when I have a moment to spare. I hope to make some FOSS apps eventually. Don't know when that will be, but keep checking back to see! 
-
-Check out my websites at these links;
-
-https://devdude437.github.io
-
-https://devdude437.github.io/toyota-4runner
-
-Interested in having a basic website designed for you? I'm not a pro, nor can I get you a professional domain address, but I can code basic websites in HTML for you if you'd like. Send me an email at devdude437@duck.com if you'd like to chat about getting a website built. 🙂
+I know some Python and HTML. I like Linux and GrapheneOS. Also FOSS stuff. I enjoy coding  when I have a moment to spare. I hope to make some FOSS apps eventually and learn Java & Kotlin to make Android apps.
