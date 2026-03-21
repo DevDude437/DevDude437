@@ -5,4 +5,5 @@ I know some Python and HTML. I like Linux and GrapheneOS. Also FOSS stuff. I enj
 ## Contact me
 
 Email; devdude437@duck.com
+
 XMPP; devdude437@xMPP.is
