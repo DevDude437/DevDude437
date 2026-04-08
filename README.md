@@ -6,4 +6,3 @@ I know some Python and HTML. I like Linux and GrapheneOS. Also FOSS stuff. I enj
 
 Email; devdude437@duck.com
 
-XMPP; devdude437@xmpp.is
