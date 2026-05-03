@@ -4,5 +4,5 @@ I know some Python and HTML. I like Linux and GrapheneOS. Also FOSS stuff. I enj
 
 ## Contact me
 
-Email; devdude437@duck.com
+Email; devdude437@protonmail.com
 
