@@ -8,3 +8,8 @@ Email; devdude437@protonmail.com
 
 ## Links
 [GrapheneOS Discussion Forum](https://discuss.grapheneos.org/u/Developer-Dude)
+
+[Gitlab](https://gitlab.com/DevDude437)
+
+[Codeberg](https://codeberg.org/DevDude437)
+
