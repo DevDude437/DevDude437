@@ -13,3 +13,5 @@ Email; devdude437@protonmail.com
 
 [Codeberg](https://codeberg.org/DevDude437)
 
+[DEV.to](https://dev.to/devdude437)
+
