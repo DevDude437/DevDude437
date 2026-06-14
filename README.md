@@ -14,5 +14,3 @@ Email; devdude437@protonmail.com
 [Codeberg](https://codeberg.org/DevDude437)
 
 [DEV.to](https://dev.to/devdude437)
-
-Want a $20 USD Proton credit? sign up for Proton Mail with [this link](https://pr.tn/ref/Y7H575JX) to get the deal!
