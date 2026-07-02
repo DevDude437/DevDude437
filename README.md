@@ -6,6 +6,10 @@ I know some Python and HTML. I like Linux and GrapheneOS. Also FOSS stuff. I enj
 
 Email; devdude437@protonmail.com
 
+Matrix: @developer-dude:matrix.org
+
+Signal: devdude437.11
+
 ## Links
 [GrapheneOS Discussion Forum](https://discuss.grapheneos.org/u/Developer-Dude)
 
@@ -16,3 +20,4 @@ Email; devdude437@protonmail.com
 [DEV.to](https://dev.to/devdude437)
 
 [Gravatar](https://gravatar.com/clearmysteriouslya6e814a829)
+
