@@ -17,7 +17,5 @@ Signal: devdude437.11
 
 [Codeberg](https://codeberg.org/DevDude437)
 
-[DEV.to](https://dev.to/devdude437)
-
 [Gravatar](https://gravatar.com/clearmysteriouslya6e814a829)
 
