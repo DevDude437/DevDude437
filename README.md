@@ -1,4 +1,4 @@
-## I'm Developer Dude
+## I'm Developer Dude 😎
 
 I'm just a dude from Canada who likes open source stuff. I also like GrapheneOS and Linux. I'm fairly good at IT support, although I do not have a career in it as I mostly do it for friends and family. I also like cars. I'm a big Toyota guy.
 ### Computer Systems I've used
