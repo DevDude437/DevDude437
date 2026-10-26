@@ -33,4 +33,5 @@ Signal: devdude437.11
 
 [Codeberg](https://codeberg.org/DevDude437)
 
+[Mastodon](@DevDude437@mastodon.social)
 
