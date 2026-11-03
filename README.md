@@ -11,6 +11,8 @@ Arch Linux
 Linux Mint
 
 Ubuntu Linux
+
+Fedora Linux
 ### Phone OSes I've used
 GrapheneOS
 
