@@ -9,7 +9,7 @@
 
 ## 🎯 About Me
 
-I'm a developer from Canada passionate about open source software, privacy-focused technology, and Linux. While IT support isn't my day job, I help friends and family tackle their tech problems. When I'm not coding, you'll find me geeking out about **Toyota vehicles** and exploring different Linux distributions.
+I'm a developer from Canada passionate about open source software, privacy-focused technology, and Linux. While IT support isn't my day job, I help friends and family tackle their tech problems. When I'm not coding, you'll find me working on my Toyotas and exploring different Linux distributions.
 
 ---
 
