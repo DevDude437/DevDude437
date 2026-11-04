@@ -39,7 +39,7 @@ I'm a developer from Canada passionate about open source software, privacy-focus
 ## 🔥 Featured Projects
 
 ### [App Compatibility without Google Play Services](https://github.com/DevDude437/App-Compatibility-without-Google-Play-Services)
-Making apps work on privacy-focused devices without proprietary Google services.
+Shows which apps work on privacy-focused devices without proprietary Google services.
 
 ### [Toyota 4Runner](https://github.com/DevDude437/toyota-4runner)
 Everything you need to know about the legendary Toyota 4Runner.
