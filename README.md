@@ -45,7 +45,7 @@ Shows which apps work on privacy-focused devices without proprietary Google serv
 Everything you need to know about the legendary Toyota 4Runner.
 
 ### [Hungry Caterpillar](https://github.com/DevDude437/Hungry-Caterpillar)
-A fun game project built with Python and HTML.
+A fun game project built with Python.
 
 ---
 
