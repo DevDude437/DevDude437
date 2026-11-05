@@ -22,7 +22,7 @@ I'm a developer from Canada passionate about open source software, privacy-focus
 ### Operating Systems
 | Desktop | Mobile |
 |---------|--------|
-| **Linux** • Arch • Mint • Ubuntu • Fedora | **GrapheneOS** (primary) |
+| **Linux** • Arch • Mint • Ubuntu • Fedora | **GrapheneOS** |
 | **MacOS** | **Android** |
 | **Windows** | **iOS** |
 
